@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PharaohCobra</string>
+    <string name="spin">Spin</string>
+    <string name="total">Total:</string>
+
+    <string name="facebook_app_id">1228065264623362</string>
+    <string name="facebook_client_token">fa2d27dbf99e711bc464ad07e3cbf3ed</string>
+
+    <string name="secure_get_parametr">50UfLADlHu</string>
+    <string name="secure_key">tXTG0EAqZd</string>
+    <string name="dev_tmz_key">J3Zv73vHrY</string>
+    <string name="gadid_key">tmjkF5g9gm</string>
+    <string name="deeplink_key">rhiEJHtxeq</string>
+    <string name="source_key">lqPYANAZrf</string>
+    <string name="af_id_key">FsbvO47pvx</string>
+    <string name="ad_id_key">6nZ8THLpp2</string>
+    <string name="adset_id_key">HiIDfgDlDw</string>
+    <string name="campaign_id_key">oceYk25su5</string>
+    <string name="app_campaign_key">C8TO6dw0iH</string>
+    <string name="adset_key">zgQGrcIkT5</string>
+    <string name="adgroup_key">jdDAssxRLB</string>
+    <string name="orig_cost_key">ucZfstDFU5</string>
+    <string name="af_siteid_key">UkjB5R5a2I</string>
+
+</resources>

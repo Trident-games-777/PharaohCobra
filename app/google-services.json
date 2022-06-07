@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531076473565",
+    "project_id": "pharaohcobra-6a0e9",
+    "storage_bucket": "pharaohcobra-6a0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531076473565:android:1759a213ddde258e6a7134",
+        "android_client_info": {
+          "package_name": "inc.trilokia.gfxtoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531076473565-hhhj0o1hhkq1ku4r3k0jt094alh797da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KChqFxLHNwYMrhEIwuA6xkrT8I2JGUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531076473565-hhhj0o1hhkq1ku4r3k0jt094alh797da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
